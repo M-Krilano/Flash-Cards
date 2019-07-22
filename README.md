@@ -1,7 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Front End
+## Description:
+Simple Flash Cards with Machine Learning terms and their definitions.
+
+#### Front End
 - React
-## Back End
+#### Back End
 - Firebase
 
 ## Available Scripts
