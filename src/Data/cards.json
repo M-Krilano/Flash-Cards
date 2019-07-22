@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "key_term": "Supervised Machine learning",
+      "definition": "Supervised machine learning requires training labelled data"
+    },
+    {
+      "id": 2,
+      "key_term": "Unsupervised Machine learning",
+      "definition": "Unsupervised machine learning doesn’t required labelled data"
+    },
+    {
+      "id": 3,
+      "key_term": "What is Bias",
+      "definition": "Bias is error introduced in your model due to over simplification of machine learning algorithm. It can lead to under fitting. When you train your model at that time model makes simplified assumptions to make the target function easier to understand."
+    },
+    {
+      "id": 4,
+      "key_term": "What is Variance",
+      "definition": "Variance is error introduced in your model due to complex machine learning algorithm, your model learns noise also from the training data set and performs bad on test data set. It can lead high sensitivity and over fitting."
+    },
+    {
+      "id": 5,
+      "key_term": "Bias vs Variance Trade Off",
+      "definition": "The goal of any supervised machine learning algorithm is to have low bias and low variance to achieve good prediction performance. There is no escaping the relationship between bias and variance in machine learning. Increasing the bias will decrease the variance. Increasing the variance will decrease the bias."
+    },
+    {
+      "id": 6,
+      "key_term": "Low bias machine learning algorithms",
+      "definition": "Decision Trees, k-NN and SVM "
+    },
+    {
+      "id": 7,
+      "key_term": "High bias machine learning algorithms",
+      "definition": "Linear Regression, Logistic Regression"
+    },
+    {
+      "id": 8,
+      "key_term": "Gradient",
+      "definition": "The direction and magnitude calculated during training of a neural network that is used to update the network weights in the right direction and by the right amount"
+    }
+  ]
+}
